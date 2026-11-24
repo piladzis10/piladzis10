@@ -11,4 +11,4 @@ AI features, and the servers they run on.
 
 Most of my work is in private repositories. The contribution graph shows the day-to-day.
 
-[LinkedIn](https://www.linkedin.com/in/d%C4%81vis-burmistris-a53a6200)
+[LinkedIn](https://www.linkedin.com/in/d%C4%81vis-burmistris-a35ab8200)
